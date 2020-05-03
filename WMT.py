@@ -183,4 +183,4 @@ async def on_message(message):
 	elif message.content.startswith('$99') or message.content.startswith('$$100'):
 		await message.channel.send('You regain all expended sorcery points.')
 
-client.run('Njg5MzI5OTYyNDY5MTYzMDI1.XnBVDQ.NBpERyuBSbRjVuLFyUneLnh6baE')
+client.run(PLACE BOT TOKEN HERE)
